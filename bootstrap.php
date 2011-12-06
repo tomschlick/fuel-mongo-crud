@@ -9,5 +9,5 @@
  */
 
 Autoloader::add_classes(array(
-	'S3' => __DIR__.'/classes/mongo/crud.php',
+	'Mongo_Crud' => __DIR__.'/classes/mongo/crud.php',
 ));
